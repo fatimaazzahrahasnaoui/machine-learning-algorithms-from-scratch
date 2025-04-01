@@ -12,7 +12,6 @@ Ce projet propose une implémentation des algorithmes suivants :
 - K plus proches voisins (KNN)
 - Arbre de décision
 - Forêt aléatoire (Random Forest)
-- K-moyennes (K-means)
 -descente de gradient 
 Le but de ce projet est d'apprendre et de comprendre les principes fondamentaux des algorithmes de ML , sans dépendre des bibliothèques déjà prêtes à l'emploi. Il permet également de mettre en pratique les concepts théoriques en créant des implémentations optimisées de ces algorithmes.
 
